@@ -1,1 +1,1 @@
-some file
+this shall be empty
